@@ -5,6 +5,6 @@ fluently. Here comes a list:
 - cadabra
 - hocus
 Here comes a table:
-|ole |dole|doff|
+|ole  |dole|doff|
 |-----|----|----|
 |kinke|lane|koff|
